@@ -1,0 +1,12 @@
+.card__file{
+    width: 64% !important;
+}
+.card__buttons {
+    width: 35% !important;
+    display: flex;
+    align-items: center;
+}
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
